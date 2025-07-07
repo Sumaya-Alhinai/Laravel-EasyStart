@@ -1,0 +1,57 @@
+What is Laravel in PHP? (Basic Knowledge)
+Laravel is a free, open-source PHP framework that helps developers build modern and powerful web applications easily and quickly.
+
+Key Points:
+PHP Framework
+Laravel is built using the PHP programming language. It gives you tools and structure to write clean, organized code.
+
+MVC Architecture
+Laravel uses the Model-View-Controller (MVC) design pattern.
+
+Model = data (from database)
+
+View = what the user sees (HTML)
+
+Controller = handles the logic between model and view
+
+Routing System
+Laravel lets you easily define routes (URLs) and what they should do (like showing a page or saving data).
+
+Blade Template Engine
+Laravel has a built-in tool called Blade for writing HTML templates with PHP, in a clean and simple way.
+
+Artisan CLI
+Laravel comes with a command-line tool called Artisan that helps you:
+
+Create files (like controllers or models)
+
+Run migrations
+
+Test your app
+
+And more...
+
+Eloquent ORM
+Eloquent makes it easy to interact with your database using PHP classes instead of writing raw SQL.
+
+Security & CSRF Protection
+Laravel includes built-in security features like:
+
+Form protection
+
+Password hashing
+
+Middleware for access control
+
+Useful Tools
+
+Authentication (login/register)
+
+Validation (check user inputs)
+
+Mail sending
+
+Queue jobs
+
+API support
+
